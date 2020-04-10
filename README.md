@@ -6,4 +6,4 @@ This web application can help you organized:
 
 2. the calender indicates through color if the hour in the daily calender has passed(grey),is present (red) or is in the future(green).
 
-3.if you write something in the text box and click save the contents will remain on the screen after you have refreshed.
+3. if you write something in the text box and click save the contents will remain on the screen after you have refreshed.
